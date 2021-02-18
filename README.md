@@ -1,2 +1,7 @@
 # WW3-Simulator-MCModpack-Client
- Source Code of the Modpack: WW3 Simulator
+  
+  
+Code of the Client Package from the Modpack "WW3 Simulator"
+  
+  
+[View on CurseForge](https://www.curseforge.com/minecraft/modpacks/ww3-simulator)
