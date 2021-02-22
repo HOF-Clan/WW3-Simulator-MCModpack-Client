@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "WW3 Simulator",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "author": "",
   "files": [
     {
@@ -170,11 +170,6 @@
       "required": true
     },
     {
-      "projectID": 297212,
-      "fileID": 2689438,
-      "required": true
-    },
-    {
       "projectID": 225561,
       "fileID": 2678374,
       "required": true
@@ -282,6 +277,11 @@
     {
       "projectID": 228756,
       "fileID": 2747935,
+      "required": true
+    },
+    {
+      "projectID": 305070,
+      "fileID": 2628925,
       "required": true
     },
     {
