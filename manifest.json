@@ -11,12 +11,17 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "WW3 Simulator",
-  "version": "1.5.0",
+  "version": "WW3 Simulator Stable 2.0.0",
   "author": "",
   "files": [
     {
       "projectID": 383191,
       "fileID": 2969230,
+      "required": true
+    },
+    {
+      "projectID": 237701,
+      "fileID": 2560638,
       "required": true
     },
     {
@@ -27,6 +32,11 @@
     {
       "projectID": 307443,
       "fileID": 2877302,
+      "required": true
+    },
+    {
+      "projectID": 269359,
+      "fileID": 2737879,
       "required": true
     },
     {
@@ -160,6 +170,11 @@
       "required": true
     },
     {
+      "projectID": 283644,
+      "fileID": 2694382,
+      "required": true
+    },
+    {
       "projectID": 242818,
       "fileID": 2779848,
       "required": true
@@ -185,6 +200,16 @@
       "required": true
     },
     {
+      "projectID": 230497,
+      "fileID": 2450900,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 2746011,
+      "required": true
+    },
+    {
       "projectID": 231868,
       "fileID": 2972849,
       "required": true
@@ -195,13 +220,38 @@
       "required": true
     },
     {
+      "projectID": 226254,
+      "fileID": 3074246,
+      "required": true
+    },
+    {
+      "projectID": 233105,
+      "fileID": 2745846,
+      "required": true
+    },
+    {
+      "projectID": 259957,
+      "fileID": 2440182,
+      "required": true
+    },
+    {
       "projectID": 248453,
       "fileID": 2785465,
       "required": true
     },
     {
+      "projectID": 227083,
+      "fileID": 2518667,
+      "required": true
+    },
+    {
       "projectID": 314904,
       "fileID": 2819669,
+      "required": true
+    },
+    {
+      "projectID": 303808,
+      "fileID": 2621858,
       "required": true
     },
     {
@@ -225,6 +275,16 @@
       "required": true
     },
     {
+      "projectID": 243121,
+      "fileID": 2924091,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 2671937,
+      "required": true
+    },
+    {
       "projectID": 272302,
       "fileID": 2941010,
       "required": true
@@ -245,6 +305,11 @@
       "required": true
     },
     {
+      "projectID": 435883,
+      "fileID": 3168141,
+      "required": true
+    },
+    {
       "projectID": 307788,
       "fileID": 2696433,
       "required": true
@@ -260,8 +325,13 @@
       "required": true
     },
     {
-      "projectID": 237102,
-      "fileID": 3157548,
+      "projectID": 288885,
+      "fileID": 2838777,
+      "required": true
+    },
+    {
+      "projectID": 235595,
+      "fileID": 2705633,
       "required": true
     },
     {
@@ -295,6 +365,11 @@
       "required": true
     },
     {
+      "projectID": 256717,
+      "fileID": 2666198,
+      "required": true
+    },
+    {
       "projectID": 238222,
       "fileID": 3040523,
       "required": true
@@ -312,6 +387,11 @@
     {
       "projectID": 53686,
       "fileID": 3087689,
+      "required": true
+    },
+    {
+      "projectID": 250419,
+      "fileID": 2689502,
       "required": true
     },
     {
@@ -335,6 +415,11 @@
       "required": true
     },
     {
+      "projectID": 223852,
+      "fileID": 2952606,
+      "required": true
+    },
+    {
       "projectID": 248787,
       "fileID": 2987247,
       "required": true
@@ -342,6 +427,11 @@
     {
       "projectID": 289479,
       "fileID": 2854400,
+      "required": true
+    },
+    {
+      "projectID": 253449,
+      "fileID": 2568751,
       "required": true
     }
   ],
